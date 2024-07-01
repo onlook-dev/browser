@@ -12,7 +12,7 @@ function WebviewArea() {
         {
             id: nanoid(),
             title: 'Desktop',
-            src: ' http://maps.google.com/',
+            src: ' http://docs.onlook.dev/',
         },
     ];
     return (
