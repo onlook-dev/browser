@@ -12,7 +12,7 @@ function WebviewArea() {
         {
             id: nanoid(),
             title: 'Desktop',
-            src: ' http://docs.onlook.dev/',
+            src: ' http://localhost:3000/',
         },
     ];
     return (
