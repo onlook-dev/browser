@@ -12,7 +12,7 @@ function WebviewArea() {
         {
             id: nanoid(),
             title: 'Desktop',
-            src: ' http://localhost:3000/',
+            src: ' http://maps.google.com/',
         },
     ];
     return (
